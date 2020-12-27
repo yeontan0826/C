@@ -144,6 +144,7 @@
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
     <ClCompile Include="..\code files\4_구구단출력.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c" />
+    <ClCompile Include="..\code files\6_입력받은정수합계.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
