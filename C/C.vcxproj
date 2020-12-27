@@ -142,6 +142,7 @@
     <ClCompile Include="..\code files\1_개인정보출력.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
+    <ClCompile Include="..\code files\4_구구단출력.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
