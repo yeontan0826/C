@@ -27,5 +27,8 @@
     <ClCompile Include="..\code files\4_구구단출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\5_변수덧셈출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
