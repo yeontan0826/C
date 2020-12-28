@@ -60,5 +60,8 @@
     <ClCompile Include="..\code files\15_구의부피계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\16_탄도위치계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
