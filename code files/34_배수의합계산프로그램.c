@@ -1,7 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
-int mainah() {
+int main() {
 
 	int num = 1;
 	int sum = 0;
@@ -13,7 +13,7 @@ int mainah() {
 		num++;
 	}
 
-	printf("1ºÎÅÍ 100 »çÀÌÀÇ ¸ğµç 3ÀÇ ¹è¼öÀÇ ÇÕÀº %dÀÔ´Ï´Ù.", sum);
+	printf("1ë¶€í„° 100 ì‚¬ì´ì˜ ëª¨ë“  3ì˜ ë°°ìˆ˜ì˜ í•©ì€ %dì…ë‹ˆë‹¤.", sum);
 
 	return 0;
 }
