@@ -147,5 +147,8 @@
     <ClCompile Include="..\code files\44_약수계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\45_구구단출력하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
