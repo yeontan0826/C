@@ -45,5 +45,8 @@
     <ClCompile Include="..\code files\10_자료형크기출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\11_태양에서빛이오는시간계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
