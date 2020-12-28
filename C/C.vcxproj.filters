@@ -123,5 +123,8 @@
     <ClCompile Include="..\code files\36_0입력할때까지합계구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\37_신호등프로그램.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
