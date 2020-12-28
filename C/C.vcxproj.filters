@@ -54,5 +54,8 @@
     <ClCompile Include="..\code files\13_거스름돈계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\14_온도변환표출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
