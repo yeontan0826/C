@@ -253,7 +253,10 @@
     <ClCompile Include="..\code files\37_신호등프로그램.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\38_정수들의합.c" />
+    <ClCompile Include="..\code files\38_정수들의합.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\39_팩토리얼계산.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>

@@ -129,5 +129,8 @@
     <ClCompile Include="..\code files\38_정수들의합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\39_팩토리얼계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
