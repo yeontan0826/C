@@ -165,5 +165,8 @@
     <ClCompile Include="..\code files\50_직각삼각형찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\51_성적처리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
