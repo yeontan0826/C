@@ -84,5 +84,8 @@
     <ClCompile Include="..\code files\23_달의일수출력.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\24_계산기만들기2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
