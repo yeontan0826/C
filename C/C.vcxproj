@@ -263,7 +263,10 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
     </ClCompile>
-    <ClCompile Include="..\code files\40_온도변환테이블출력.c" />
+    <ClCompile Include="..\code files\40_온도변환테이블출력.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\41_화면에사각형그리기.c" />
     <ClCompile Include="..\code files\4_구구단출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
