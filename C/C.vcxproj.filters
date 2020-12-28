@@ -93,5 +93,8 @@
     <ClCompile Include="..\code files\26_어드벤처게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\27_큰수작은수찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
