@@ -158,6 +158,7 @@
     <ClCompile Include="..\code files\25_학점평가.c" />
     <ClCompile Include="..\code files\26_어드벤처게임.c" />
     <ClCompile Include="..\code files\27_큰수작은수찾기.c" />
+    <ClCompile Include="..\code files\28_0부터9까지출력.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
     <ClCompile Include="..\code files\4_구구단출력.c" />

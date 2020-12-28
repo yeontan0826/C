@@ -96,5 +96,8 @@
     <ClCompile Include="..\code files\27_큰수작은수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\28_0부터9까지출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
