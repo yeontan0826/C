@@ -147,6 +147,7 @@
     <ClCompile Include="..\code files\6_입력받은정수합계.c" />
     <ClCompile Include="..\code files\7_원의면적계산.c" />
     <ClCompile Include="..\code files\8_여러자료형사용.c" />
+    <ClCompile Include="..\code files\9_문자입출력.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

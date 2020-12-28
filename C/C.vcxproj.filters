@@ -39,5 +39,8 @@
     <ClCompile Include="..\code files\8_여러자료형사용.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\9_문자입출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
