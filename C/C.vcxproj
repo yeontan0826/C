@@ -247,6 +247,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
     </ClCompile>
+    <ClCompile Include="..\code files\36_0입력할때까지합계구하기.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
@@ -278,7 +279,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\code files\35_dowhile기본예제.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>Document</FileType>
     </ClCompile>
   </ItemGroup>
