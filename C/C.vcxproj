@@ -147,6 +147,7 @@
     <ClCompile Include="..\code files\15_구의부피계산.c" />
     <ClCompile Include="..\code files\16_탄도위치계산.c" />
     <ClCompile Include="..\code files\17_홀짝구별하기.c" />
+    <ClCompile Include="..\code files\18_큰수구별하기.c" />
     <ClCompile Include="..\code files\1_개인정보출력.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
