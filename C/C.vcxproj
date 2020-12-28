@@ -165,6 +165,7 @@
     <ClCompile Include="..\code files\31_구구단출력.c" />
     <ClCompile Include="..\code files\32_최솟값구하기.c" />
     <ClCompile Include="..\code files\33_카운트다운프로그램.c" />
+    <ClCompile Include="..\code files\34_배수의합계산프로그램.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
     <ClCompile Include="..\code files\4_구구단출력.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c" />
@@ -172,6 +173,7 @@
     <ClCompile Include="..\code files\7_원의면적계산.c" />
     <ClCompile Include="..\code files\8_여러자료형사용.c" />
     <ClCompile Include="..\code files\9_문자입출력.c" />
+    <ClCompile Include="..\code files\정유진.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
