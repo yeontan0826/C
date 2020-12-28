@@ -72,5 +72,8 @@
     <ClCompile Include="..\code files\19_윤년판단.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\20_성적에따라학점출력.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

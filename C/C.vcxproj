@@ -150,6 +150,7 @@
     <ClCompile Include="..\code files\18_큰수구별하기.c" />
     <ClCompile Include="..\code files\19_윤년판단.c" />
     <ClCompile Include="..\code files\1_개인정보출력.c" />
+    <ClCompile Include="..\code files\20_성적에따라학점출력.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
     <ClCompile Include="..\code files\4_구구단출력.c" />
