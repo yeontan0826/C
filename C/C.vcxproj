@@ -287,7 +287,10 @@
     <ClCompile Include="..\code files\47_break를이용한반복종료.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\48_배터리관리.c" />
+    <ClCompile Include="..\code files\48_배터리관리.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\49_숫자맞추기게임.c" />
     <ClCompile Include="..\code files\4_구구단출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
