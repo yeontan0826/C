@@ -161,6 +161,7 @@
     <ClCompile Include="..\code files\28_0부터9까지출력.c" />
     <ClCompile Include="..\code files\29_1부터10까지의합계산.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
+    <ClCompile Include="..\code files\30_팩토리얼계산.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
     <ClCompile Include="..\code files\4_구구단출력.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c" />

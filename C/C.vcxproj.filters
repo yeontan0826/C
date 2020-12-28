@@ -102,5 +102,8 @@
     <ClCompile Include="..\code files\29_1부터10까지의합계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\30_팩토리얼계산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
