@@ -162,5 +162,8 @@
     <ClCompile Include="..\code files\49_숫자맞추기게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\50_직각삼각형찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -290,11 +290,14 @@
     <ClCompile Include="..\code files\48_배터리관리.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\49_숫자맞추기게임.c" />
+    <ClCompile Include="..\code files\49_숫자맞추기게임.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="..\code files\4_구구단출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
     </ClCompile>
+    <ClCompile Include="..\code files\50_직각삼각형찾기.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
