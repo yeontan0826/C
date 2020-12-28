@@ -78,5 +78,8 @@
     <ClCompile Include="..\code files\21_이차방정식.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\22_계산기만들기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
