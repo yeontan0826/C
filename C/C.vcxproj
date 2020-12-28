@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="..\code files\10_자료형크기출력.c" />
     <ClCompile Include="..\code files\11_태양에서빛이오는시간계산.c" />
+    <ClCompile Include="..\code files\12_몫나머지구하기.c" />
     <ClCompile Include="..\code files\1_개인정보출력.c" />
     <ClCompile Include="..\code files\2_도형출력.c" />
     <ClCompile Include="..\code files\3_형식지정자출력.c" />
