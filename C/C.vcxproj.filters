@@ -90,5 +90,8 @@
     <ClCompile Include="..\code files\25_학점평가.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\26_어드벤처게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
