@@ -177,5 +177,8 @@
     <ClCompile Include="..\code files\54_극장예약시스템.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\55_배열에서최소최대값찾기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
