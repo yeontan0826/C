@@ -300,7 +300,10 @@
     <ClCompile Include="..\code files\50_직각삼각형찾기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\51_성적처리.c" />
+    <ClCompile Include="..\code files\51_성적처리.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\52_선수평균득점계산.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
