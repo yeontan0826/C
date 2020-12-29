@@ -174,5 +174,8 @@
     <ClCompile Include="..\code files\53_주사위던지기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\54_극장예약시스템.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
