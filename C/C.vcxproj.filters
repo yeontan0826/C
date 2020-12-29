@@ -189,5 +189,8 @@
     <ClCompile Include="..\code files\58_인기투표결과구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\59_2차원배열초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
