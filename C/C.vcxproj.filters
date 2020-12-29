@@ -171,5 +171,8 @@
     <ClCompile Include="..\code files\52_선수평균득점계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\53_주사위던지기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
