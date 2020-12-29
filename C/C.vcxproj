@@ -318,7 +318,10 @@
     <ClCompile Include="..\code files\56_배열에서특정값찾기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\57_히스토그램그리기.c" />
+    <ClCompile Include="..\code files\57_히스토그램그리기.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\58_인기투표결과구하기.c" />
     <ClCompile Include="..\code files\5_변수덧셈출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
