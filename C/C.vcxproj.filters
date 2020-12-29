@@ -192,5 +192,8 @@
     <ClCompile Include="..\code files\59_2차원배열초기화.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\60_행렬덧셈.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
