@@ -216,5 +216,8 @@
     <ClCompile Include="..\code files\67_동전던지기게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\68_불규칙점그리기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
