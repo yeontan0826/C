@@ -228,5 +228,8 @@
     <ClCompile Include="..\code files\71_자동차경주.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\72_자동차경주2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

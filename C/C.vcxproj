@@ -368,7 +368,10 @@
     <ClCompile Include="..\code files\70_삼각함수그리기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\71_자동차경주.c" />
+    <ClCompile Include="..\code files\71_자동차경주.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\72_자동차경주2.c" />
     <ClCompile Include="..\code files\7_원의면적계산.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
