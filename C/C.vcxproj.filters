@@ -222,5 +222,8 @@
     <ClCompile Include="..\code files\69_삼각함수관계식계산.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\70_삼각함수그리기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
