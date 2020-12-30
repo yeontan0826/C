@@ -204,5 +204,8 @@
     <ClCompile Include="..\code files\63_두수중큰수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\64_온도변환함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

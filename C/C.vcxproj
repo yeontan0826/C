@@ -340,7 +340,10 @@
     <ClCompile Include="..\code files\62_문자열길이구하기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\63_두수중큰수찾기.c" />
+    <ClCompile Include="..\code files\63_두수중큰수찾기.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\64_온도변환함수.c" />
     <ClCompile Include="..\code files\6_입력받은정수합계.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
