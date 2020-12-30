@@ -198,5 +198,8 @@
     <ClCompile Include="..\code files\61_영화평점계산하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\62_문자열길이구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
