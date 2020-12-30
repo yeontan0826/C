@@ -346,7 +346,10 @@
     <ClCompile Include="..\code files\64_온도변환함수.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\65_소수찾기.c" />
+    <ClCompile Include="..\code files\65_소수찾기.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\66_로또번호생성.c" />
     <ClCompile Include="..\code files\6_입력받은정수합계.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>

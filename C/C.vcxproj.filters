@@ -210,5 +210,8 @@
     <ClCompile Include="..\code files\65_소수찾기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\66_로또번호생성.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
