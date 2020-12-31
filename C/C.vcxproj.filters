@@ -234,5 +234,8 @@
     <ClCompile Include="..\code files\73_외계인게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\74_저축금액누적하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
