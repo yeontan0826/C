@@ -389,7 +389,10 @@
     <ClCompile Include="..\code files\77_swap()함수작성.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\78_배열원소의합계산%28배열%29.c" />
+    <ClCompile Include="..\code files\78_배열원소의합계산%28배열%29.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c" />
     <ClCompile Include="..\code files\7_원의면적계산.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>

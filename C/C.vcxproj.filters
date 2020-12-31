@@ -249,5 +249,8 @@
     <ClCompile Include="..\code files\78_배열원소의합계산%28배열%29.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
