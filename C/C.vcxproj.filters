@@ -237,5 +237,8 @@
     <ClCompile Include="..\code files\74_저축금액누적하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\75_정적변수를사용한초기화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
