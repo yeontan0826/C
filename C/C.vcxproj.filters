@@ -240,5 +240,8 @@
     <ClCompile Include="..\code files\75_정적변수를사용한초기화.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\76_로그인제한.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

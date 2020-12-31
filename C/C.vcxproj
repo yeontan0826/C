@@ -380,7 +380,10 @@
     <ClCompile Include="..\code files\74_저축금액누적하기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\75_정적변수를사용한초기화.c" />
+    <ClCompile Include="..\code files\75_정적변수를사용한초기화.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\76_로그인제한.c" />
     <ClCompile Include="..\code files\7_원의면적계산.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
