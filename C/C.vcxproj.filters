@@ -258,5 +258,8 @@
     <ClCompile Include="81_영상처리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="82_함수포인터예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
