@@ -252,16 +252,7 @@
     <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="80_표준편차구하기.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="81_영상처리.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="82_함수포인터예제.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="83_함수포인터예제2.c">
+    <ClCompile Include="..\code files\80_ 평균과표준편차구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
