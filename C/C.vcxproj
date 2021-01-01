@@ -392,7 +392,9 @@
     <ClCompile Include="..\code files\78_배열원소의합계산%28배열%29.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c" />
+    <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="..\code files\7_원의면적계산.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
@@ -405,6 +407,7 @@
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
     </ClCompile>
+    <ClCompile Include="80_표준편차구하기.c" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\code files\35_dowhile기본예제.c">

@@ -252,5 +252,8 @@
     <ClCompile Include="..\code files\79_배열원소의합계산(포인터).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="80_표준편차구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
