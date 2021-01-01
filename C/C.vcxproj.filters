@@ -264,5 +264,8 @@
     <ClCompile Include="..\code files\83_함수포인터예제2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\84_암호강인성조사.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
