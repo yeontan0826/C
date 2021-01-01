@@ -255,5 +255,8 @@
     <ClCompile Include="80_표준편차구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="81_영상처리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
