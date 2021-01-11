@@ -426,11 +426,14 @@
     <ClCompile Include="..\code files\88_문자열토큰분리.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\89_메시지암호화.c" />
+    <ClCompile Include="..\code files\89_메시지암호화.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="..\code files\8_여러자료형사용.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
     </ClCompile>
+    <ClCompile Include="..\code files\90_행맨게임.c" />
     <ClCompile Include="..\code files\9_문자입출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>

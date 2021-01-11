@@ -282,5 +282,8 @@
     <ClCompile Include="..\code files\89_메시지암호화.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\90_행맨게임.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
