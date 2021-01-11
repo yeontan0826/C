@@ -270,5 +270,8 @@
     <ClCompile Include="..\code files\85_문자열입출력함수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\86_문자열복사및연결함수.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
