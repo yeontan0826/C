@@ -411,7 +411,10 @@
     <ClCompile Include="..\code files\83_함수포인터예제2.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\84_암호강인성조사.c" />
+    <ClCompile Include="..\code files\84_암호강인성조사.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\85_문자열입출력함수.c" />
     <ClCompile Include="..\code files\8_여러자료형사용.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
