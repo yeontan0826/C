@@ -279,5 +279,8 @@
     <ClCompile Include="..\code files\88_문자열토큰분리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\89_메시지암호화.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
