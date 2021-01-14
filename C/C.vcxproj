@@ -436,7 +436,10 @@
     <ClCompile Include="..\code files\90_행맨게임.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\91_구조체선언과사용.c" />
+    <ClCompile Include="..\code files\91_구조체선언과사용.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\92_점들간의거리계산.c" />
     <ClCompile Include="..\code files\9_문자입출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
