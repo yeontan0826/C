@@ -297,5 +297,8 @@
     <ClCompile Include="..\code files\94_주소록.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\95_여러학생성적저장.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
