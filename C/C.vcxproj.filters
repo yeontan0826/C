@@ -309,5 +309,11 @@
     <ClCompile Include="..\code files\98_공용체기본예제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\99_점의평행이동.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\code files\100_좌표일치판단.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
