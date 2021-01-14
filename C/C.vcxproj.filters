@@ -303,5 +303,8 @@
     <ClCompile Include="..\code files\96_장학생선발.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\97_벡터.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
