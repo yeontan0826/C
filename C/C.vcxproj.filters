@@ -306,5 +306,8 @@
     <ClCompile Include="..\code files\97_벡터.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\98_공용체기본예제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
