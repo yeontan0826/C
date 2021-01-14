@@ -285,5 +285,8 @@
     <ClCompile Include="..\code files\90_행맨게임.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\91_구조체선언과사용.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
