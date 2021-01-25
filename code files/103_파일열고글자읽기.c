@@ -8,9 +8,9 @@ int main() {
 
 	err = fopen_s(&fp, "sample.txt", "r");
 	if (err == 0) {
-		printf("파일열기 성공\n");
+		puts("파일열기 성공\n");
 	} else {
-		printf("파일열기 실패\n");
+		puts("파일열기 실패\n");
 		return -1;
 	}
 
