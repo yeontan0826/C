@@ -10,7 +10,7 @@ int main() {
 	token = strtok_s(a, seps, &context);
 
 	while (token != NULL) {
-		printf("ÅäÅ« : %s\n", token);
+		printf("TOKEN : %s\n", token);
 		token = strtok_s(NULL, seps, &context);
 	}
 
