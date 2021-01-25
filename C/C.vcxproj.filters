@@ -324,5 +324,8 @@
     <ClCompile Include="..\code files\103_파일열고글자읽기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\code files\104_파일생성문자열작성.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
