@@ -151,7 +151,10 @@
     <ClCompile Include="..\code files\103_파일열고글자읽기.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="..\code files\104_파일생성문자열작성.c" />
+    <ClCompile Include="..\code files\104_파일생성문자열작성.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\code files\105_파일열고문자열읽기.c" />
     <ClCompile Include="..\code files\10_자료형크기출력.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
       <FileType>CppCode</FileType>
